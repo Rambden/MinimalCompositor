@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/close.png</file>
+        <file>qml/AppEntry.qml</file>
+        <file>qml/AppLauncher.qml</file>
+        <file>qml/AppSwitcher.qml</file>
+        <file>qml/AppSwitcherIndicator.qml</file>
+        <file>qml/Launcher.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/Output.qml</file>
+        <file>qml/ShellItem.qml</file>
+        <file>qml/ShellSurfaceModel.qml</file>
+        <file>qml/SurfaceThumbnail.qml</file>
+        <file>qml/AnimatedButton2.qml</file>
+        <file>resources/kms.json</file>
+    </qresource>
+</RCC>
